@@ -1,5 +1,8 @@
 # Personal_Project_Performance_Comparison_of_Various_Knowledge_Distillation_Methods_in_GPT2
 
+## Report
+https://www.notion.so/Report-Comparison-of-Various-Knowledge-Distillation-Methods-in-GPT-246b3e06ce6c80cba739c11eda1c1653?source=copy_link
+
 ## Goal
 
 - Comparison some combinations of knowledge distillation formulas and Analyzing each combination’s impact to improvement of performance
